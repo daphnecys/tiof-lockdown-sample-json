@@ -6,18 +6,18 @@
   "DSLAccessLevel": "",
   "SchemaPermaURL": "https://TIOF.Click?DSL=1",
   "TrelloBoardPermaURL": "https://TIOF.Click?DSL=1&type=trello",
-  "LocaleName": "Afganistan",
+  "LocaleName": "Afghanistan",
   "LocaleCode": "AFG",
-  "Status": 4, /* Ready */
+  "Status": 4,
   "PermalinkDSL": "https://TIOF.Click?DSL=1",
   "PermalinkDEI": "https://TIOF.Click?DSL=1&type=dei",
   "Name": "Afganistan Data Set Layer",
   "Description": "Afganistan Data Set Layer",
-  "DateTimeFormat": "yyyy-MM-ddTHH:mmZ", /* changed from DatesFormat */
+  "DateTimeFormat": "yyyy-MM-ddTHH:mmZ",
   "PubllishedFirst": "2019-06-01T00:00Z",
   "UpdatedLast": "2020-09-17T12:00Z",
   "UpdatedNext": "2020-09-24T12:00Z",
-  "UpdatedFreq": "604800000", /* in milliseconds */
+  "UpdatedFreq": "604800000",
   "PermalinkContact": "https://TIOF.Click?DSL=1&type=contact",
   "PermalinkMethodology": "https://TIOF.Click?DSL=1&type=methodology",
   "MethodologyCode": "AB1234",
@@ -30,7 +30,7 @@
   "SourceTypes": [ "1", "2", "3" ],
   "Count Data Points": 173,
   "PermalinkQALog": "https://TIOF.Click?DSL=1&type=qalog",
-  "Ontoloy": "https://TIOF.Click?DSL=1&type=ontoloy",
+  "Ontology": "https://TIOF.Click?DSL=1&type=ontoloy",
   "ResearchURL": "https://TIOF.Click?DSL=1&type=researchurl",
   "AvailableLocales": [ "1", "2", "3" ],
   "PermalinkLicenseURL": "https://TIOF.Click?DSL=1&type=licenseurl",
@@ -86,7 +86,7 @@
           "Name": "Afghanistan",
           "LastTimeUpdate": "2020-09-17T12:00Z",
           "Region": "Afghanistan",
-          "Status": 4  /* ready */
+          "Status": 4
         },
         "ISOInfo": {
           "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryISOInfoDoc",
@@ -113,8 +113,8 @@
               "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDataSetEntriesDoc",
               "EntryUID": "AFG_449f9944-6518-4e23-a84a-7b2cef79f386",
               "TimeStamp": "2020-09-17T12:00Z",
-              "Status": 4, /* ready */
-              "SourceType": 1, /* official pronouncement */
+              "Status": 4,
+              "SourceType": 1,
               "SourceURL": "https://TIOF.Click?DSL=1&type=territoryDataSetEntries",
               "SourceTitle": "Message for U.S. Citizens: Movement Restrictions in Kabul",
               "Editor": "Arky",
@@ -129,7 +129,7 @@
                   "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
                   "Category": {
                     "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                    "CategoryStatus": 4, /* Ready */
+                    "CategoryStatus": 4,
                     "TDOLayout": "Ready",
                     "TabMaxWidth": "Ready",
                     "TabTitle": "Ready",
@@ -229,23 +229,23 @@ datapoints
     "DPUID": "1",
     "Values": [{
         "Answer": "yes",
-        "StartDate": "...",
-        "EndDate": "...",
-        "Details": "...",
+        "StartDate": "2020-04-18T00:00Z",
+        "EndDate": "2020-06-18T00:00Z",
+        "Details": "Lorem Ipsum..."
     },{
         "Answer": "yes",
-        "StartDate": "...",
-        "EndDate": "...",
-        "Details": "...",
+        "StartDate": "2020-04-18T00:00Z",
+        "EndDate": "2020-06-18T00:00Z",
+        "Details": "Lorem Ipsum..."
     },{
         "Answer": "yes",
-        "StartDate": "...",
-        "EndDate": "...",
-        "Details": "...",
+        "StartDate": "2020-04-18T00:00Z",
+        "EndDate": "2020-06-18T00:00Z",
+        "Details": "Lorem Ipsum..."
     },{
         "Answer": "yes",
-        "StartDate": "...",
-        "EndDate": "...",
-        "Details": "...",
+        "StartDate": "2020-04-18T00:00Z",
+        "EndDate": "2020-06-18T00:00Z",
+        "Details": "Lorem Ipsum..."
     }]
 }
